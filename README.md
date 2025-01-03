@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,c,java,godot,spring,arduino,linux,mysql,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,c,java,godot,spring,arduino,linux,mysql,postman,html,javascript)](https://skillicons.dev)
 
 <!--
 **RaimundoMonzon/RaimundoMonzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
