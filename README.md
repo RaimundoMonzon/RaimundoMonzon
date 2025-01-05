@@ -1,18 +1,11 @@
 ## Hi there 👋
 
+## About me
+
+- 🌎 Software Developer from Argentina <img src="https://github.com/markjames/famfamfam-flag-icons/blob/master/icons/gif/ar.gif"/>
+- 🎓 Currently finishing studying Computer Science at [UTN INSPT](https://inspt.utn.edu.ar/).
+- 🎴 I enjoy my free time playing games, designing and crafting.
+- 📜 Passionate about design and development, I am particulary fond of intrincate systems.
+
+## Tech Stack 📚
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,c,java,godot,spring,arduino,linux,mysql,postman,html,javascript)](https://skillicons.dev)
-
-<!--
-**RaimundoMonzon/RaimundoMonzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
